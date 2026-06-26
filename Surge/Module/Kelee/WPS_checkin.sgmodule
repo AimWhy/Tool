@@ -6,8 +6,8 @@
 #!date=2026-06-01 17:11:35
 
 [Script]
-Cookie = type=http-request,pattern=^https:\/\/moapi\.wps\.cn\/app\/ios\/v1\/app$,script-path=https://kelee.one/Resource/JavaScript/WPS/WPS_checkin.js,requires-body=true,enabled={CaptureCookie}
-WPS = type=cron,cronexp={CRONEXP},script-path=https://kelee.one/Resource/JavaScript/WPS/WPS_checkin.js,timeout=120,argument=[{AK},{SK},{MAX_RETRIES}]
+捕获Cookie = type=http-request,pattern=^https:\/\/moapi\.wps\.cn\/app\/ios\/v1\/app$,script-path=https://kelee.one/Resource/JavaScript/WPS/WPS_checkin.js,requires-body=true,enabled={CaptureCookie}
+WPS每日签到 = type=cron,cronexp={CRONEXP},script-path=https://kelee.one/Resource/JavaScript/WPS/WPS_checkin.js,timeout=120,argument=[{AK},{SK},{MAX_RETRIES}]
 
 [MITM]
 hostname = %APPEND% moapi.wps.cn

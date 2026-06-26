@@ -6,7 +6,7 @@
 
 [Script]
 App_Store_API = type=http-request,pattern=^https:\/\/apple-api\.com,script-path=https://kelee.one/Resource/JavaScript/IPATool/AppStoreAPI.js,requires-body=true
-script = type=http-request,pattern=^https:\/\/xiaobai\.app,script-path=https://kelee.one/Resource/JavaScript/IPATool/Installer.js
+安装器 = type=http-request,pattern=^https:\/\/xiaobai\.app,script-path=https://kelee.one/Resource/JavaScript/IPATool/Installer.js
 
 [MITM]
 hostname = %APPEND% apple-api.com, xiaobai.app
