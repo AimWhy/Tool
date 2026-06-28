@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7595
+# 规则统计: 7599
 
 HOST,ccmdl.adobe.com,ProxyGFW
 HOST,cloud.oracle.com,ProxyGFW
@@ -1353,6 +1353,7 @@ HOST-SUFFIX,cpj.org,ProxyGFW
 HOST-SUFFIX,cpu-monkey.com,ProxyGFW
 HOST-SUFFIX,cpuid.com,ProxyGFW
 HOST-SUFFIX,cq99.us,ProxyGFW
+HOST-SUFFIX,cr,ProxyGFW
 HOST-SUFFIX,crackle.com,ProxyGFW
 HOST-SUFFIX,crashlytics.com,ProxyGFW
 HOST-SUFFIX,crazypool.org,ProxyGFW
@@ -2100,6 +2101,7 @@ HOST-SUFFIX,fixupx.com,ProxyGFW
 HOST-SUFFIX,fixvx.com,ProxyGFW
 HOST-SUFFIX,fizzik.com,ProxyGFW
 HOST-SUFFIX,flagsonline.it,ProxyGFW
+HOST-SUFFIX,flathub.org,ProxyGFW
 HOST-SUFFIX,flecheinthepeche.fr,ProxyGFW
 HOST-SUFFIX,fleshbot.com,ProxyGFW
 HOST-SUFFIX,fleursdeslettres.com,ProxyGFW
@@ -5042,6 +5044,7 @@ HOST-SUFFIX,post01.com,ProxyGFW
 HOST-SUFFIX,post76.com,ProxyGFW
 HOST-SUFFIX,post852.com,ProxyGFW
 HOST-SUFFIX,postadult.com,ProxyGFW
+HOST-SUFFIX,posthog.com,ProxyGFW
 HOST-SUFFIX,postimg.org,ProxyGFW
 HOST-SUFFIX,postmarkapp.com,ProxyGFW
 HOST-SUFFIX,potato.im,ProxyGFW
@@ -6377,6 +6380,7 @@ HOST-SUFFIX,tr,ProxyGFW
 HOST-SUFFIX,tracfone.com,ProxyGFW
 HOST-SUFFIX,tradingview.com,ProxyGFW
 HOST-SUFFIX,traffichaus.com,ProxyGFW
+HOST-SUFFIX,trakt.tv,ProxyGFW
 HOST-SUFFIX,translate.goog,ProxyGFW
 HOST-SUFFIX,transparency.org,ProxyGFW
 HOST-SUFFIX,travelinkcard.com,ProxyGFW

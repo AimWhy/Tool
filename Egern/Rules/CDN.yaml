@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4560
+# 规则统计: 4607
 
 domain_set:
   - 0x0.st
@@ -152,6 +152,7 @@ domain_set:
   - assets.cgtrader.com
   - assets.change.org
   - assets.chaos.social
+  - assets.churnkey.co
   - assets.clever-cloud.com
   - assets.clibo.tw
   - assets.clickfunnels.com
@@ -241,11 +242,13 @@ domain_set:
   - assets.onestore.ms
   - assets.ontrack.com
   - assets.openalternative.co
+  - assets.openlogi.org
   - assets.openshift.com
   - assets.openshift.net
   - assets.orz.uno
   - assets.peatio.com
   - assets.pingie.com
+  - assets.pingone.com
   - assets.pixlee.com
   - assets.play.xbox.com
   - assets.plurk.com
@@ -287,6 +290,7 @@ domain_set:
   - assets.time.com
   - assets.tokopedia.net
   - assets.toot.cafe
+  - assets.transfernow.net
   - assets.tvtropes.org
   - assets.twitch.tv
   - assets.unicorn.studio
@@ -349,6 +353,7 @@ domain_set:
   - awsimgsrc.dmm.co.jp
   - axiecdn.axieinfinity.com
   - az700632.vo.msecnd.net
+  - b.manufact.com
   - b.peatio.com
   - b.sf-syn.com
   - b5x-sentry.1passwordservices.com
@@ -399,6 +404,7 @@ domain_set:
   - bunnycdn-video-assets.b-cdn.net
   - businessunitprofile-cdn.trustpilot.net
   - busuanzi.ibruce.info
+  - bytescale.mobbin.com
   - c-bin.b-cdn.net
   - c.1password.com
   - c.animaapp.com
@@ -410,6 +416,7 @@ domain_set:
   - c.speedtestcustom.com
   - c.start.me
   - c.tadst.com
+  - c.tenor.com
   - c1.newegg.com
   - c1.patreon.com
   - c10.patreon.com
@@ -435,10 +442,12 @@ domain_set:
   - cache.ip-api.com
   - cache.omnicalculator.com
   - cached.rebuyengine.com
+  - cafe.github.com
   - canny-assets.io
   - canvas-lb.tubitv.com
   - cartodb-basemaps-a.global.ssl.fastly.net
   - cassette.sphdigital.com.sg
+  - catalogartifact.azureedge.net
   - categoriespages-cdn.trustpilot.net
   - cc-embed.adobe.com
   - cc.boyfriendtv.com
@@ -647,6 +656,7 @@ domain_set:
   - cdn.eu.contentful.com
   - cdn.european-alternatives.eu
   - cdn.evbstatic.com
+  - cdn.evgnet.com
   - cdn.f5.com
   - cdn.faire.com
   - cdn.fastcomments.com
@@ -665,6 +675,7 @@ domain_set:
   - cdn.freecodecamp.org
   - cdn.freesound.org
   - cdn.freshdesk.com
+  - cdn.fundraiseup.com
   - cdn.gamemonkey.org
   - cdn.gatherings.franchise.minecraft-services.net
   - cdn.gdl.gg
@@ -675,6 +686,7 @@ domain_set:
   - cdn.ghostery.com
   - cdn.giftcardpro.app
   - cdn.gigya.com
+  - cdn.gist.ai
   - cdn.gofundme.com
   - cdn.googlesource.com
   - cdn.growthbook.io
@@ -765,6 +777,7 @@ domain_set:
   - cdn.myanimelist.net
   - cdn.myfonts.net
   - cdn.myfutanari.com
+  - cdn.myopenpass.com
   - cdn.myportfolio.com
   - cdn.nba.com
   - cdn.ndtv.com
@@ -945,7 +958,6 @@ domain_set:
   - cdn.wikiwiki.jp
   - cdn.windowsreport.com
   - cdn.wishpond.net
-  - cdn.workos.com
   - cdn.worldvectorlogo.com
   - cdn.writeas.net
   - cdn.xeiaso.net
@@ -974,6 +986,7 @@ domain_set:
   - cdn1.dan.com
   - cdn1.edgedatg.com
   - cdn1.epicgames.com
+  - cdn1.espn.net
   - cdn1.ettoday.net
   - cdn1.hentaicity.com
   - cdn1.hotmoza.tv
@@ -1124,6 +1137,7 @@ domain_set:
   - cms.blavity.com
   - cms.mistral.ai
   - cms.myfonts.com
+  - cms.railway.com
   - cms.recordedfuture.com
   - cms.socialinsider.io
   - cms.therecord.media
@@ -1193,6 +1207,7 @@ domain_set:
   - creator-image.javhd.com
   - crl.usertrust.com
   - crl.verisign.com
+  - crl3.digicert.com
   - crt.comodoca.com
   - crt.sectigo.com
   - crt.usertrust.com
@@ -1239,6 +1254,7 @@ domain_set:
   - devicons.railway.com
   - devnull.perfops.net
   - dh-site.b-cdn.net
+  - digitalhub.fifa.com
   - dims.apnews.com
   - disco-static.productessentials.app
   - disco.headliner.link
@@ -1246,6 +1262,7 @@ domain_set:
   - divhunt.b-cdn.net
   - dl.airdroid.com
   - dlassets-ssl.xboxlive.com
+  - dlstats.izzyondroid.org
   - do.featurebase.app
   - docs.brew.sh
   - docs.mrchromebox.tech
@@ -1283,11 +1300,13 @@ domain_set:
   - edgestorewebpme-d2hnhfgbgnfmfuha.z01.azurefd.net
   - eep.io
   - eightcha.com
+  - embed-audio.cnevids.com
   - embed-cloudfront.wistia.com
   - embed-ssl.wistia.com
   - embed-v2.testimonial.to
   - embed.culturalspot.org
   - embed.getwally.net
+  - embed.lantern.io
   - embed.reddit.com
   - embed.runkit.com
   - embed.savvycal.com
@@ -1312,13 +1331,13 @@ domain_set:
   - eomd1.fembeqq.xyz
   - ep1.pinkbike.org
   - epic-social-social-modules-prod.ol.epicgames.com
+  - error.c.cdn77.org
   - error.rakuten.co.jp
   - errors.figma.com
   - es.pinkbike.org
   - eslint-react.xyz
   - eslint.org
   - eslint.style
-  - eu-assets.i.posthog.com
   - eu-images.contentstack.com
   - eu.cdnbye.com
   - eu.hamreus.com
@@ -1424,12 +1443,14 @@ domain_set:
   - frames-commandbar-prod.commandbar.com
   - freeshippingbar.herokuapp.com
   - front-resource.fs.com
+  - frontend-apps-multi-region.workos.com
   - frontend-apps.workos.com
   - frontend-assets.supabase.com
   - frontend-cdn.perplexity.ai
   - frontend.floatplane.com
   - fs.mingpao.com
   - fscdn.eppo.cloud
+  - fullstackopen.com
   - g-static.ap4r.com
   - g.newsweek.com
   - g1.nyt.com
@@ -1468,6 +1489,7 @@ domain_set:
   - headway-widget.net
   - heatmap-external-a.strava.com
   - hello.zonos.com
+  - hentai0.com
   - hentaiworldtv.b-cdn.net
   - heroicons.com
   - hhhhhhome86227170.wordpress.com
@@ -1768,6 +1790,7 @@ domain_set:
   - img.javynow.com
   - img.jsdelivr.com
   - img.kbhgames.com
+  - img.kemono.cr
   - img.logokit.com
   - img.ltyears.com
   - img.lvv2.com
@@ -1854,6 +1877,7 @@ domain_set:
   - imgfile.shop
   - imgix.setapp.com
   - imgopt.infoq.com
+  - imgproxy.flathub.org
   - imgproxy.fourthwall.com
   - imgrs.apkcombo.com
   - imgs.plurk.com
@@ -1972,6 +1996,7 @@ domain_set:
   - lolstatic-a.akamaihd.net
   - lucide.dev
   - lumiere-a.akamaihd.net
+  - luminaire.railway.com
   - lzd-img-global.slatic.net
   - m-cdn.phonearena.com
   - m.porn3dx.com
@@ -2083,6 +2108,7 @@ domain_set:
   - media.themoviedb.org
   - media.theporndude.com
   - media.theresanaiforthat.com
+  - media.trakt.tv
   - media.user.com
   - media.webtoo.ls
   - media.wired.com
@@ -2117,6 +2143,7 @@ domain_set:
   - moodular.jotform.com
   - mosaic-blender.fxtwitter.com
   - mosaic.fxtwitter.com
+  - mozilla-ohttp.fastly-edge.com
   - mparticle.weather.com
   - mstdn-s3.o3o.studio
   - mta.newfold.com
@@ -2212,6 +2239,7 @@ domain_set:
   - perf.hsforms.com
   - pg2dhpc3p5ec22g3.jkforum.net
   - pgw.udn.com.tw
+  - ph.langfuse.com
   - ph.northflank.com
   - ph.tryprofound.com
   - phishing.army
@@ -2692,6 +2720,7 @@ domain_set:
   - static.c-spanvideo.org
   - static.canva.com
   - static.captcha-delivery.com
+  - static.captcha.awswaf.com
   - static.carfax.com
   - static.cdnlogo.com
   - static.chaika.moe
@@ -2745,6 +2774,7 @@ domain_set:
   - static.frame.work
   - static.freedownloadmanager.org
   - static.freeimages.com
+  - static.fundraiseup.com
   - static.garmin.com
   - static.generated.photos
   - static.getbutton.io
@@ -2974,6 +3004,7 @@ domain_set:
   - store-images.microsoft.com
   - store-images.s-microsoft.com
   - stories.freepiklabs.com
+  - stories.usestoryteller.com
   - storybooks.fluentui.dev
   - stream.mux.com
   - streaming.split.io
@@ -3122,6 +3153,7 @@ domain_set:
   - ui.trailhead.com
   - uim.9uu22.com
   - unavatar.io
+  - unleash.codeium.com
   - unlimited-cdn.waifu2x.net
   - unsubscribe-imgs.leavemealone.com
   - uos-support-files.svc.ui.com
@@ -3130,15 +3162,16 @@ domain_set:
   - upload.movim.eu
   - upload.teftera.com
   - upload.wikimedia.org
+  - uploadcare.mwcglobalprofile.com
   - uploads-cdn.omnicalculator.com
   - uploads.bikeindex.org
   - uploads.codesandbox.io
   - uploads.guim.co.uk
   - uploads.linear.app
+  - uploads.pullfrog.com
   - uploads.sitepoint.com
   - upos-sz-mirroralibstar1.bilivideo.com
   - upos-sz-mirrorcosbstar1.bilivideo.com
-  - us-assets.i.posthog.com
   - us-js.zonka.co
   - us.123rf.com
   - us.hamreus.com
@@ -3164,6 +3197,7 @@ domain_set:
   - v2.listenloop.com
   - v2uploads.zopim.io
   - vanilla-extract.style
+  - variations.brave.com
   - vbmspic.video.friday.tw
   - vcdn.anysex.com
   - vectorified.com
@@ -3205,6 +3239,8 @@ domain_set:
   - wa1.aninoapps.com
   - wac-cdn.atlassian.com
   - waitlisted.co
+  - wall-ui-cdn.p.aws.economist.com
+  - walter-r2.trakt.tv
   - wandi-6402.kxcdn.com
   - wcpstatic.microsoft.com
   - wctour-images.worldchess.com
@@ -3243,6 +3279,7 @@ domain_set:
   - widget.gotolstoy.com
   - widget.intercom.io
   - widget.kapa.ai
+  - widget.prod.equally.ai
   - widget.reviews.io
   - widget.trustpilot.com
   - widget.usepylon.com
@@ -3482,6 +3519,8 @@ domain_suffix_set:
   - cdn.survey.medallia.com
   - cdn.turner.com
   - cdn.ubi.com
+  - cdn.usestoryteller.com
+  - cdn.workos.com
   - cdn1122.com
   - cdn2.hubspot.net
   - cdn2020.com
@@ -3551,6 +3590,7 @@ domain_suffix_set:
   - csp.withgoogle.com
   - ctfassets.net
   - cthd.icu
+  - cursor-cdn.com
   - customerioforms.com
   - customeriomail.com
   - cwwcdn.com
@@ -3637,6 +3677,7 @@ domain_suffix_set:
   - exp-tas.com
   - externulls.com
   - ezocdn.com
+  - f-cdn.com
   - f.hubspotemail.net
   - f.hubspotfree.net
   - f.hubspotstarter.net
@@ -3673,6 +3714,7 @@ domain_suffix_set:
   - fncstatic.com
   - fontawesome.com
   - fonts.com
+  - fonts.coollabs.io
   - fonts.gsma.com
   - fonts.net
   - forbesimg.com
@@ -3777,6 +3819,7 @@ domain_suffix_set:
   - hydaelyn-25x-18.top
   - i-dont-care-about-cookies.eu
   - i.optimole.com
+  - i.posthog.com
   - ibytedtos.com
   - ibyteimg.com
   - icfcdn.com
@@ -3807,6 +3850,7 @@ domain_suffix_set:
   - imageshack.us
   - imagetwist.com
   - img-dpreview.com
+  - img.gmo.jp
   - img.haiwaikan.com
   - img.sooplive.com
   - img1.acsta.net
@@ -3928,6 +3972,7 @@ domain_suffix_set:
   - kleecks-cdn.com
   - kwcdn.com
   - kym-cdn.com
+  - larksuitepkg.com
   - latam.orbitor.dev
   - lazcdn.com
   - lbpicpic.com
@@ -4306,6 +4351,7 @@ domain_suffix_set:
   - swiftypecdn.com
   - sxccdn.com
   - szjal.cn
+  - t-assets.net
   - t8cdn.com
   - tacdn.com
   - tags.f5.com
@@ -4436,6 +4482,7 @@ domain_suffix_set:
   - wolongcdnm3u8.com
   - wolongzywcdn3.com
   - workers.dev
+  - workoscdn.com
   - wowmodels.com
   - wp.com
   - wpcomstaging.com
@@ -4506,62 +4553,62 @@ domain_keyword_set:
   - vod-adaptive.akamaized.net
   - web-assets.zendesk
 domain_wildcard_set:
-  - *-intake-*-datadoghq.com
-  - *-intake.*.datadoghq.com
-  - *.fsvod?.com
-  - *.img.*.sendibm?.com
-  - *.kuaikan-cdn?.com
-  - *.skyearth?.xyz
-  - appcenter-filemanagement-*.cloudapp.net
-  - assets*.freshdesk.com
-  - assets.*.imaga.co
-  - blog-imgs-??.2nt.com
-  - blog-imgs-??.fc2.com
-  - cdn*.boysfood.com
-  - cdn*.pigav.com
-  - cdn*.porn87.com
-  - cdn*.pornhost.com
-  - cdn-*.microsoft.com
-  - cdn-msp?.18comic.org
-  - cdn-msp?.18comic.vip
-  - cdn-msp?.jmcomic-zzz.one
-  - cdn-msp?.jmcomic.me
-  - cdn.*.microsoft.com
-  - cdn.*.office.net
-  - cdn?-dl.pornhost.com
-  - cdn?.18girlssex.com
-  - cdn?.mikuclub.fun
-  - cdns.*.gigya.com
-  - chunk-*.mux.com
-  - fastly-*.allmovie.com
-  - file?.mikuclub.fun
-  - i?.nhentai.net
-  - image*.cloudokyo.cloud
-  - img-*.now.com
-  - img?.porngo.com
-  - img??.porngo.com
-  - object-storage-*.vexxhost.net
-  - ocsp.*.amazontrust.com
-  - proxy-*.dailymotion.com
-  - rr?---??.ouo.si
-  - s*.hanime1
-  - s3-*.figma.com
-  - s3.*.wasabisys.com
-  - s?.maxstream.org
-  - s??.maxstream.org
-  - s???.pornone.com
-  - sdk.*.braze.eu
-  - static?.tgstat.ru
-  - static??.tgstat.ru
-  - stream?.kissjav.com
-  - stream??.kissjav.com
-  - t?.nhentai.net
-  - th-*.pornone.com
-  - uploads-*.insided.com
-  - v.rn???.xyz
-  - video*.cloudokyo.cloud
-  - video-thumbnail2.fc2.com
-  - video-thumbnail?.liaoningmovie.net
-  - video?-thumbnail?.fc2.com
-  - video?-thumbnail?.liaoningmovie.net
-  - vip-videoprem*-thumbnail?.fc2.com
+  - "*-intake-*-datadoghq.com"
+  - "*-intake.*.datadoghq.com"
+  - "*.fsvod?.com"
+  - "*.img.*.sendibm?.com"
+  - "*.kuaikan-cdn?.com"
+  - "*.skyearth?.xyz"
+  - "appcenter-filemanagement-*.cloudapp.net"
+  - "assets*.freshdesk.com"
+  - "assets.*.imaga.co"
+  - "blog-imgs-??.2nt.com"
+  - "blog-imgs-??.fc2.com"
+  - "cdn*.boysfood.com"
+  - "cdn*.pigav.com"
+  - "cdn*.porn87.com"
+  - "cdn*.pornhost.com"
+  - "cdn-*.microsoft.com"
+  - "cdn-msp?.18comic.org"
+  - "cdn-msp?.18comic.vip"
+  - "cdn-msp?.jmcomic-zzz.one"
+  - "cdn-msp?.jmcomic.me"
+  - "cdn.*.microsoft.com"
+  - "cdn.*.office.net"
+  - "cdn?-dl.pornhost.com"
+  - "cdn?.18girlssex.com"
+  - "cdn?.mikuclub.fun"
+  - "cdns.*.gigya.com"
+  - "chunk-*.mux.com"
+  - "fastly-*.allmovie.com"
+  - "file?.mikuclub.fun"
+  - "i?.nhentai.net"
+  - "image*.cloudokyo.cloud"
+  - "img-*.now.com"
+  - "img?.porngo.com"
+  - "img??.porngo.com"
+  - "object-storage-*.vexxhost.net"
+  - "ocsp.*.amazontrust.com"
+  - "proxy-*.dailymotion.com"
+  - "rr?---??.ouo.si"
+  - "s*.hanime1"
+  - "s3-*.figma.com"
+  - "s3.*.wasabisys.com"
+  - "s?.maxstream.org"
+  - "s??.maxstream.org"
+  - "s???.pornone.com"
+  - "sdk.*.braze.eu"
+  - "static?.tgstat.ru"
+  - "static??.tgstat.ru"
+  - "stream?.kissjav.com"
+  - "stream??.kissjav.com"
+  - "t?.nhentai.net"
+  - "th-*.pornone.com"
+  - "uploads-*.insided.com"
+  - "v.rn???.xyz"
+  - "video*.cloudokyo.cloud"
+  - "video-thumbnail2.fc2.com"
+  - "video-thumbnail?.liaoningmovie.net"
+  - "video?-thumbnail?.fc2.com"
+  - "video?-thumbnail?.liaoningmovie.net"
+  - "vip-videoprem*-thumbnail?.fc2.com"

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "rules": [
     {
       "domain": [
@@ -1359,6 +1359,7 @@
         "cpu-monkey.com",
         "cpuid.com",
         "cq99.us",
+        "cr",
         "crackle.com",
         "crashlytics.com",
         "crazypool.org",
@@ -2106,6 +2107,7 @@
         "fixvx.com",
         "fizzik.com",
         "flagsonline.it",
+        "flathub.org",
         "flecheinthepeche.fr",
         "fleshbot.com",
         "fleursdeslettres.com",
@@ -5048,6 +5050,7 @@
         "post76.com",
         "post852.com",
         "postadult.com",
+        "posthog.com",
         "postimg.org",
         "postmarkapp.com",
         "potato.im",
@@ -6383,6 +6386,7 @@
         "tracfone.com",
         "tradingview.com",
         "traffichaus.com",
+        "trakt.tv",
         "translate.goog",
         "transparency.org",
         "travelinkcard.com",

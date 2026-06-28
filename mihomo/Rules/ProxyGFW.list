@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7594
+# 规则统计: 7598
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,cloud.oracle.com
@@ -1353,6 +1353,7 @@ DOMAIN-SUFFIX,cpj.org
 DOMAIN-SUFFIX,cpu-monkey.com
 DOMAIN-SUFFIX,cpuid.com
 DOMAIN-SUFFIX,cq99.us
+DOMAIN-SUFFIX,cr
 DOMAIN-SUFFIX,crackle.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crazypool.org
@@ -2100,6 +2101,7 @@ DOMAIN-SUFFIX,fixupx.com
 DOMAIN-SUFFIX,fixvx.com
 DOMAIN-SUFFIX,fizzik.com
 DOMAIN-SUFFIX,flagsonline.it
+DOMAIN-SUFFIX,flathub.org
 DOMAIN-SUFFIX,flecheinthepeche.fr
 DOMAIN-SUFFIX,fleshbot.com
 DOMAIN-SUFFIX,fleursdeslettres.com
@@ -5042,6 +5044,7 @@ DOMAIN-SUFFIX,post01.com
 DOMAIN-SUFFIX,post76.com
 DOMAIN-SUFFIX,post852.com
 DOMAIN-SUFFIX,postadult.com
+DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,postimg.org
 DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,potato.im
@@ -6377,6 +6380,7 @@ DOMAIN-SUFFIX,tr
 DOMAIN-SUFFIX,tracfone.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,traffichaus.com
+DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,translate.goog
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,travelinkcard.com

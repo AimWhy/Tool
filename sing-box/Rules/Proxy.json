@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "rules": [
     {
       "domain": [
@@ -136,6 +136,7 @@
         "anysex.com",
         "ao3.org",
         "aol.com",
+        "ap.org",
         "apernet.io",
         "api.acaisbest.shop",
         "apibay.org",
@@ -344,6 +345,7 @@
         "coursehero.com",
         "coveralls.io",
         "cpuid.com",
+        "cr",
         "crashlytics.com",
         "creaders.net",
         "creativecommons.org",
@@ -492,6 +494,7 @@
         "fish.audio",
         "fixupx.com",
         "fixvx.com",
+        "flathub.org",
         "flickr.com",
         "flightradar24.com",
         "flipboard.com",
@@ -1070,6 +1073,7 @@
         "pornpics.com",
         "porntrex.com",
         "porntube.com",
+        "posthog.com",
         "postmarkapp.com",
         "precisionhydration.com",
         "prism-break.org",
@@ -1329,6 +1333,7 @@
         "tr",
         "track.tv",
         "tradingview.com",
+        "trakt.tv",
         "travis-ci.com",
         "travis-ci.org",
         "trello.com",

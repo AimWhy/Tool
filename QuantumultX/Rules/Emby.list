@@ -1,14 +1,11 @@
 # 规则名称: Emby
-# 规则统计: 196
+# 规则统计: 194
 
 HOST,cc.coemn.com,Emby
 HOST,cdn1.nebula-media.org,Emby
 HOST,cf-cdn1.nebula-media.org,Emby
-HOST,cminf.sfcat.link,Emby
-HOST,cuinf.sfcat.link,Emby
 HOST,emby-cdn1.nebula-media.org,Emby
 HOST,emby.nebula-media.org,Emby
-HOST,notnetflix.cos.cat,Emby
 HOST,starharn-cf.nebula-media.org,Emby
 HOST,starharn.nebula-media.org,Emby
 HOST,web-starharn.nebula-media.org,Emby
@@ -42,6 +39,7 @@ HOST-SUFFIX,bangumi.ca,Emby
 HOST-SUFFIX,bddup.com,Emby
 HOST-SUFFIX,bili.de,Emby
 HOST-SUFFIX,bili.rip,Emby
+HOST-SUFFIX,biliblili.uk,Emby
 HOST-SUFFIX,blueseacdn.com,Emby
 HOST-SUFFIX,carlos.trade,Emby
 HOST-SUFFIX,carryz.net,Emby
@@ -53,6 +51,7 @@ HOST-SUFFIX,charontv.com,Emby
 HOST-SUFFIX,cherrytv.one,Emby
 HOST-SUFFIX,ciallo.party,Emby
 HOST-SUFFIX,cinema.facmata.net,Emby
+HOST-SUFFIX,cn2gias.uk,Emby
 HOST-SUFFIX,deja-vu.beauty,Emby
 HOST-SUFFIX,dicarerhome.com,Emby
 HOST-SUFFIX,e.degyax.one,Emby
@@ -64,7 +63,6 @@ HOST-SUFFIX,emby.aiyowei.ml,Emby
 HOST-SUFFIX,emby.bid,Emby
 HOST-SUFFIX,emby.cjpc.cc,Emby
 HOST-SUFFIX,emby.cl,Emby
-HOST-SUFFIX,emby.cn2gias.uk,Emby
 HOST-SUFFIX,emby.date,Emby
 HOST-SUFFIX,emby.eu.org,Emby
 HOST-SUFFIX,emby.flowercloud,Emby
@@ -112,6 +110,7 @@ HOST-SUFFIX,goodisp.org,Emby
 HOST-SUFFIX,gtlx.org,Emby
 HOST-SUFFIX,gugumedia.link,Emby
 HOST-SUFFIX,happyav.eu.org,Emby
+HOST-SUFFIX,hgemby.qzz.io,Emby
 HOST-SUFFIX,hovervan.org,Emby
 HOST-SUFFIX,i109.com,Emby
 HOST-SUFFIX,ii00.cc,Emby
@@ -148,7 +147,6 @@ HOST-SUFFIX,pilipiliultra.top,Emby
 HOST-SUFFIX,poloemby.xyz,Emby
 HOST-SUFFIX,pololine.ml,Emby
 HOST-SUFFIX,pornemby.club,Emby
-HOST-SUFFIX,post.cn2gias.uk,Emby
 HOST-SUFFIX,pub1.emby.wtf,Emby
 HOST-SUFFIX,pub1.term.wtf,Emby
 HOST-SUFFIX,pub1back.emby.wtf,Emby

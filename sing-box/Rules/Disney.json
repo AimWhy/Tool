@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "rules": [
     {
       "domain_suffix": [
@@ -175,6 +175,12 @@
         "thisispolaris.com",
         "watchdisneyfe.com",
         "watchespn.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.disney.datg.videoplatforms.android.abc",
+        "com.disney.disneyplus"
       ]
     }
   ]

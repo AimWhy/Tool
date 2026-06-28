@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 1557
+# 规则统计: 1564
 
 no_resolve: true
 domain_set:
@@ -133,6 +133,7 @@ domain_suffix_set:
   - anysex.com
   - ao3.org
   - aol.com
+  - ap.org
   - apernet.io
   - api.acaisbest.shop
   - apibay.org
@@ -341,6 +342,7 @@ domain_suffix_set:
   - coursehero.com
   - coveralls.io
   - cpuid.com
+  - cr
   - crashlytics.com
   - creaders.net
   - creativecommons.org
@@ -489,6 +491,7 @@ domain_suffix_set:
   - fish.audio
   - fixupx.com
   - fixvx.com
+  - flathub.org
   - flickr.com
   - flightradar24.com
   - flipboard.com
@@ -1067,6 +1070,7 @@ domain_suffix_set:
   - pornpics.com
   - porntrex.com
   - porntube.com
+  - posthog.com
   - postmarkapp.com
   - precisionhydration.com
   - prism-break.org
@@ -1326,6 +1330,7 @@ domain_suffix_set:
   - tr
   - track.tv
   - tradingview.com
+  - trakt.tv
   - travis-ci.com
   - travis-ci.org
   - trello.com
@@ -1563,3 +1568,6 @@ ip_cidr_set:
   - 18.206.50.220/32
   - 3.136.94.196/32
   - 44.205.88.94/32
+user_agent_set:
+  - "Roam*"
+  - "SpeedTest*"

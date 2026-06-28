@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "rules": [
     {
       "domain_suffix": [
@@ -24,6 +24,18 @@
     {
       "ip_cidr": [
         "17.0.0.0/8"
+      ]
+    },
+    {
+      "process_name": [
+        "CoreLocationAgent",
+        "WeatherWidget",
+        "apsd",
+        "com.apple.Maps",
+        "com.apple.geod",
+        "findmydevice-user-agent",
+        "fmfd",
+        "mapspushd"
       ]
     }
   ]

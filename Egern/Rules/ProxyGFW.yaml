@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFW
-# 规则统计: 7594
+# 规则统计: 7599
 
 no_resolve: true
 domain_set:
@@ -1356,6 +1356,7 @@ domain_suffix_set:
   - cpu-monkey.com
   - cpuid.com
   - cq99.us
+  - cr
   - crackle.com
   - crashlytics.com
   - crazypool.org
@@ -2103,6 +2104,7 @@ domain_suffix_set:
   - fixvx.com
   - fizzik.com
   - flagsonline.it
+  - flathub.org
   - flecheinthepeche.fr
   - fleshbot.com
   - fleursdeslettres.com
@@ -5045,6 +5047,7 @@ domain_suffix_set:
   - post76.com
   - post852.com
   - postadult.com
+  - posthog.com
   - postimg.org
   - postmarkapp.com
   - potato.im
@@ -6380,6 +6383,7 @@ domain_suffix_set:
   - tracfone.com
   - tradingview.com
   - traffichaus.com
+  - trakt.tv
   - translate.goog
   - transparency.org
   - travelinkcard.com
@@ -7601,3 +7605,5 @@ ip_cidr6_set:
   - 2001:67c:4e8::/48
   - 2001:b28:f23d::/48
   - 2001:b28:f23f::/48
+user_agent_set:
+  - "Roam*"

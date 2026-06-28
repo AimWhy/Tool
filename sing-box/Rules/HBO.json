@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "rules": [
     {
       "domain_suffix": [
@@ -50,6 +50,11 @@
         "players.brightcove.net",
         "warnermediacdn.com",
         "youboranqs01.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.hbo.hbonow"
       ]
     }
   ]

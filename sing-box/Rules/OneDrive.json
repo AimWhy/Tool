@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "rules": [
     {
       "domain_suffix": [
@@ -22,6 +22,12 @@
         "1drv",
         "onedrive",
         "skydrive"
+      ]
+    },
+    {
+      "process_name": [
+        "OneDrive",
+        "OneDriveUpdater"
       ]
     }
   ]

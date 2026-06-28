@@ -1,4 +1,4 @@
-# 最后更新时间：2026-01-08 08:19:49
+# 最后更新时间：2026-06-13 14:40
 
 ##### A #####
 
@@ -116,6 +116,9 @@ DOMAIN-SUFFIX,emby.trade
 
 # HKA
 DOMAIN-SUFFIX,252798.xyz
+
+# HG
+DOMAIN-SUFFIX,hgemby.qzz.io
 
 ##### I #####
 
@@ -267,6 +270,7 @@ DOMAIN-SUFFIX,emby77.org
 DOMAIN-SUFFIX,pilipiliultra.top
 DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,pilipili.club
+DOMAIN-SUFFIX,biliblili.uk
 
 # PornEmby
 DOMAIN-SUFFIX,pornemby.club
@@ -317,14 +321,8 @@ DOMAIN-SUFFIX,91ai.de
 DOMAIN-SUFFIX,stream.synn.cc
 DOMAIN-SUFFIX,stream.ntrrr.top
 
-# 私房菜Emby
-DOMAIN,notnetflix.cos.cat
-DOMAIN,cminf.sfcat.link
-DOMAIN,cuinf.sfcat.link
-
 # 守候网络Emby
-DOMAIN-SUFFIX,emby.cn2gias.uk
-DOMAIN-SUFFIX,post.cn2gias.uk
+DOMAIN-SUFFIX,cn2gias.uk
 
 # SarCat
 DOMAIN-SUFFIX,starcat.eu.org
